@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HeikinCKadai",
+            "request": "launch",
+            "mainClass": "HeikinCKadai",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
+            "name": "MayExceptionTest",
+            "request": "launch",
+            "mainClass": "MayExceptionTest",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
             "name": "CSVRenderExample",
             "request": "launch",
             "mainClass": "CSVRenderExample",
