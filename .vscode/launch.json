@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChatClient",
+            "request": "launch",
+            "mainClass": "ChatClient",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
+            "name": "ChatServer",
+            "request": "launch",
+            "mainClass": "ChatServer",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
             "name": "PrimeCheck",
             "request": "launch",
             "mainClass": "PrimeCheck",
