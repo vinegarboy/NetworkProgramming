@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calc_Client_renewed",
+            "request": "launch",
+            "mainClass": "Calc_Client_renewed",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
+            "name": "Calc_Server_renewed",
+            "request": "launch",
+            "mainClass": "Calc_Server_renewed",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
+            "name": "Calc_Client",
+            "request": "launch",
+            "mainClass": "Calc_Client",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
+            "name": "Calc_Server",
+            "request": "launch",
+            "mainClass": "Calc_Server",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
+            "name": "ReferencesArgument",
+            "request": "launch",
+            "mainClass": "ReferencesArgument",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
             "name": "Client",
             "request": "launch",
             "mainClass": "Client",
