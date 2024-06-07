@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GUIAnimationMain",
+            "request": "launch",
+            "mainClass": "guichat.GUIAnimationMain",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
+            "name": "MovingBallAWT",
+            "request": "launch",
+            "mainClass": "guibasic.MovingBallAWT",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
+            "name": "MovingBallFacesAWT",
+            "request": "launch",
+            "mainClass": "guibasic.MovingBallFacesAWT",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
+            "name": "SwingAnimationFaceObj",
+            "request": "launch",
+            "mainClass": "guibasic.SwingAnimationFaceObj",
+            "projectName": "Networkprogramming_95f300e8"
+        },
+        {
+            "type": "java",
             "name": "Calc_Client_renewed",
             "request": "launch",
             "mainClass": "Calc_Client_renewed",
